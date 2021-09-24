@@ -1,12 +1,22 @@
-# 0N1 Force Avatars
+# 0N1 FORCE Avatars
 
-Resources for building 3D 0N1 Force avatars with.
+<p align="center"><a href="https://i.imgur.com/58G1mvX.png" target="_blank"><img width="100%" alt="0N1 FORCE avatars" src="https://i.imgur.com/58G1mvX.png"></a></p>
 
-Website: https://www.0n1force.com/
-Opensea: https://opensea.io/collection/0n1-force
-Instagram: https://www.instagram.com/0n1force/
-Twitter: https://twitter.com/0n1force
-Discord: https://discord.gg/0n1force
+<p align="center"><b>0N1 FORCE fan project to build metaverse ready avatars</b></p>
+
+<div align="center">
+  <a href="https://www.0n1force.com/">Site</a>
+  &mdash;
+  <a href="https://opensea.io/collection/0n1-force">Opensea</a>
+  &mdash;
+  <a href="https://www.instagram.com/0n1force/">Instagram</a>
+  &mdash;
+  <a href="https://twitter.com/0n1force">Twitter</a>
+  &mdash;
+  <a href="https://discord.gg/0n1force">Discord</a>
+</div>
+
+---
 
 ### How to contribute
 
