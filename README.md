@@ -55,11 +55,17 @@ When modeling a trait like headphones it should be made simple to recolor for th
 ## Body
 
 - [ ] [Citrine](https://opensea.io/collection/0n1-force?collectionSlug=0n1-force&search[stringTraits][0][name]=Body&search[stringTraits][0][values][0]=Citrine)
+  - #dad724
 - [ ] [Jasper](https://opensea.io/collection/0n1-force?collectionSlug=0n1-force&search[stringTraits][0][name]=Body&search[stringTraits][0][values][0]=Jasper)
+  - #ff494f
 - [x] [Azurite](https://opensea.io/collection/0n1-force?collectionSlug=0n1-force&search[stringTraits][0][name]=Body&search[stringTraits][0][values][0]=Azurite)
-- [ ] [Type-01](https://opensea.io/collection/0n1-force?collectionSlug=0n1-force&search[stringTraits][0][name]=Body&search[stringTraits][0][values][0]=Type-01)
+  - #03bdb8
+- [ ] [Type-01](https://opensea.io/collection/0n1-force?collectionSlug=0n1-force&search[stringTraits][0][name]=Body&search[stringTraits][0][values][0]=Type-01)]
+  - #aeaeae / #8b8a8b
 - [ ] [Obsidian](https://opensea.io/collection/0n1-force?collectionSlug=0n1-force&search[stringTraits][0][name]=Body&search[stringTraits][0][values][0]=Obsidian)
+  - #4d4d4d
 - [ ] [Ash](https://opensea.io/collection/0n1-force?collectionSlug=0n1-force&search[stringTraits][0][name]=Body&search[stringTraits][0][values][0]=Ash)
+  - #e2e2e2
 - [ ] [Water](https://opensea.io/collection/0n1-force?collectionSlug=0n1-force&search[stringTraits][0][name]=Body&search[stringTraits][0][values][0]=Water)
 - [ ] [Pearlescent](https://opensea.io/collection/0n1-force?collectionSlug=0n1-force&search[stringTraits][0][name]=Body&search[stringTraits][0][values][0]=Pearlescent)
 - [ ] [Kabuki](https://opensea.io/collection/0n1-force?collectionSlug=0n1-force&search[stringTraits][0][name]=Body&search[stringTraits][0][values][0]=Kabuki)
